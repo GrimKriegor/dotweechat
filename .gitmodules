@@ -1,3 +1,6 @@
 [submodule "python/weechat-vimode"]
 	path = python/weechat-vimode
 	url = https://github.com/GermainZ/weechat-vimode.git
+[submodule "python/weechat-matrix"]
+	path = python/weechat-matrix
+	url = https://github.com/poljar/weechat-matrix.git
