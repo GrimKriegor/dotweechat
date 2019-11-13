@@ -4,6 +4,5 @@ logs/
 script/plugins.xml.gz
 sec.conf
 weechat_fifo
-python/matrix*
 matrix/
 zncplayback_times.json
