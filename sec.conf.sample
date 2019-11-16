@@ -16,3 +16,11 @@ passphrase_file = ""
 salt = on
 
 [data]
+__passphrase__ = off
+irc.url = ""
+irc.password = ""
+irc.username = ""
+matrix.username = ""
+matrix.device_name = ""
+matrix.address = ""
+matrix.password = ""
